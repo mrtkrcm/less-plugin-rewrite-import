@@ -1,23 +1,24 @@
 {
   "name": "less-plugin-rewrite-import",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Less plugin for rewriting import statement",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webuni/less-plugin-rewrite-import"
+    "url": "https://github.com/mrtkrcm/less-plugin-rewrite-import"
   },
   "keywords": [
     "less",
+    "plugin",
     "rewrite"
   ],
   "devDependencies": {
-    "less": "~2.5.1",
-    "diff": "^1.0"
+    "diff": "^1.0",
+    "less": "^3.9.0"
   },
-  "author": "Martin Hasoň <martin.hason@gmail.com>",
+  "author": "Murat Karacam <karacamjr@gmail.com>, Martin Hasoň <martin.hason@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webuni/less-plugin-rewrite-import/issues"
+    "url": "https://github.com/mrtkrcm/less-plugin-rewrite-import/issues"
   }
 }
